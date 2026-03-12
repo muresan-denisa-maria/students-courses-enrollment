@@ -87,7 +87,7 @@ public class Main {
                     } else {
                         for (int i = 0; i < students.size(); i++) {
                             System.out.println(students.get(i));
-                            System.out.println("\n END");
+                            System.out.println("END \n");
                         }
                     }
                     break;
@@ -103,7 +103,7 @@ public class Main {
                     } else {
                         for (int i = 0; i < foundStudents.size(); i++) {
                             System.out.println(foundStudents.get(i));
-                            System.out.println("\n END");
+                            System.out.println("END \n");
                         }
                     }
                     break;
@@ -116,7 +116,7 @@ public class Main {
                     } else {
                         for (int i = 0; i < courses.size(); i++) {
                             System.out.println(courses.get(i));
-                            System.out.println("\n END");
+                            System.out.println("END \n");
                         }
                     }
                     break;
